@@ -5,3 +5,4 @@
 - Initial release
 - fix: clarify the setup steps
 - docs: link the usage section
+- fix: link the usage section
