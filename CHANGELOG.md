@@ -7,3 +7,4 @@
 - docs: link the usage section
 - fix: link the usage section
 - docs: fix a small wording issue
+- docs: clarify the setup steps
