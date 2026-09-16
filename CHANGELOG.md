@@ -38,3 +38,4 @@
 - fix: fix a small wording issue
 - fix: clarify the setup steps
 - docs: fix a small wording issue
+- fix: fix a small wording issue
